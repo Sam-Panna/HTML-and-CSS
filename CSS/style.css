@@ -1,0 +1,45 @@
+.div2{
+    border: 8px;
+    color: rgb(212, 23, 212);
+    text-decoration: dotted;
+}
+
+/* universal selector */
+*{
+
+}
+
+/* tag selector */
+body{
+
+}
+
+h1{
+
+}
+
+/* class selector */
+.div1{
+    position: fixed;
+    background-color: #b61818;
+
+}
+
+/* id selector */
+#bold{
+
+}
+
+/* group selector */
+.div1, .div2{
+    height: 200px;
+    background-color: #b61818;
+    
+
+}
+
+/* parent child selector */
+.container .div{
+  
+
+}
